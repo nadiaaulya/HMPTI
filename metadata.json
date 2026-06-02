@@ -1,0 +1,6 @@
+{
+  "name": "Portal HMPTI",
+  "description": "Website resmi Himpunan Mahasiswa Prodi Teknik Informatika (HMPTI) dengan informasi profil, visi misi, struktur organisasi, program kerja, dan wadah aspirasi mahasiswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
